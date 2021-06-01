@@ -48,3 +48,4 @@ cout << tp << endl;
 ```
 
 It's that easy to use !!!
+Check out the examples folder for more.
